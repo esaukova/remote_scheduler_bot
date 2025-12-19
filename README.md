@@ -10,7 +10,6 @@ git clone https://github.com/esaukova/remote_scheduler_bot
 cd remotejobbot
 
 # 2. Настроить переменные окружения
-echo "BOT_TOKEN=ваш_токен_бота" > .env
 echo "ADMIN_ID=ваш_id" >> .env
 echo "ADMIN_USERNAME=ваш_username" >> .env
 
